@@ -1,6 +1,6 @@
 # Khalik — builder of real, deployed products
 
-I'm a Computing student at CU London (Dagenham) who takes ideas all the way to **live, working products** — from the problem and the user experience through to the backend, data and cloud deployment. I scope and ship real systems end-to-end using AI coding tools.
+I'm a Computing student at CU London (Dagenham) who takes ideas all the way to **live, working products** — from the problem and the user experience through to the backend, data and cloud deployment. I scope and ship real systems end-to-end.
 
 My main project is **36 Golden Thread**, a construction-compliance platform that's deployed and running today.
 
